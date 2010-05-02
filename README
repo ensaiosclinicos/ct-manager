@@ -1,0 +1,11 @@
+This is the BIREME/Fiocruz Clinical Trials Registration Application.
+
+The main code repository for this project is at:
+
+http://svn.reddes.bvsalud.org/clinical-trials (checkout)
+http://reddes.bvsalud.org/projects/clinical-trials/browser/ (browse online)
+
+An alternative repository, using git-svn, is available at:
+
+http://github.com/ensaiosclinicos/ct-manager
+
