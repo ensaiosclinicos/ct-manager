@@ -1,11 +1,17 @@
-This is the BIREME/Fiocruz Clinical Trials Registration Application.
+This is the Clinical Trials Registration System developed by BIREME with the
+support of the Brazilian Ministry of Health (Ministério da Saúde/DECIT),  
+Fiocruz (Fundação Oswaldo Cruz/ICICT) and the Pan American Health 
+Organization (PAHO/WHO).
 
-The main code repository for this project is at:
+The project Web site is:
 
-http://svn.reddes.bvsalud.org/clinical-trials (checkout)
-http://reddes.bvsalud.org/projects/clinical-trials/browser/ (browse online)
+http://reddes.bvsalud.org/projects/clinical-trials
 
-An alternative repository, using git-svn, is available at:
+The main Subversion repository is at:
 
-http://github.com/ensaiosclinicos/ct-manager
+http://svn.reddes.bvsalud.org/clinical-trials
+
+There is also a git-svn mirror at:
+
+http://github.com/bireme/clinicaltrials
 
